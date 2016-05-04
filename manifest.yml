@@ -7,6 +7,6 @@ applications:
   instances: 1
   path: .
 declared-services:
-  myMicroservicesCloudant:
+  GyMicroservicesCloudant:
     label: cloudantNoSQLDB
     plan: Shared
