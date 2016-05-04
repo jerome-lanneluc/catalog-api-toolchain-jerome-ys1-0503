@@ -1,7 +1,7 @@
 ---
 applications:
 - services:
-  - myMicroservicesCloudant
+  - GyMicroservicesCloudant
   name: MicroservicesCatalogAPI
   Gemory: 96m
   instances: 1
