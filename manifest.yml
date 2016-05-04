@@ -1,9 +1,9 @@
 ---
 applications:
 - services:
-  - GyMicroservicesCloudant
+  - myMicroservicesCloudant
   name: MicroservicesCatalogAPI
-  Gemory: 96m
+  memory: 96m
   instances: 1
   path: .
 declared-services:
